@@ -175,5 +175,5 @@ if __name__ == '__main__':
     # run the bot
     updater.start_polling()
 
-    # run the bot until you press Ctrl-C 
+    # run the bot until you press Ctrl-C
     updater.idle()
